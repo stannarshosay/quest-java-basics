@@ -42,8 +42,6 @@ public class RunMethodsOrFunctions {
 			System.out.println("Oops! Something went wrong.");
 		}
 		
-		
-		
 
 	}
 
