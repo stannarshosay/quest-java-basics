@@ -12,7 +12,7 @@ public class RunArrayExample {
 		System.out.println("Enter numbers into array\n\n");
 		
 		Scanner scanner = new Scanner(System.in);
-		
+				
 		for (int i = 0; i < numbers.length; i++) {
 			
 			System.out.println("Enter value for position => "+(i+1)+" of the array :");
